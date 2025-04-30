@@ -32,7 +32,6 @@
 ### 🔧 Ongoing Projects
 - **Real-time classroom analytics with YOLO, LSTM & DeepSORT**
 - **Real-Time AI-based fault-detection for industrial equipment** (FPGA + AI)
-- **Learning-resources sharing website**
 - **Class-attendance & attention-monitoring system** (Computer Vision)
 
 ### ✅ Completed Projects
