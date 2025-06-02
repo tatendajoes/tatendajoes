@@ -36,7 +36,6 @@
 ### ✅ Completed Projects
 - **Autonomous wheelchair for disabled travelers at airports**
 - **MPI-Fortran simulations of relativistic jets for astrophysics research**
-- **Open-source library integrating LLMs into robotics systems**
 - **DARPA intrusion-detection dataset cyber-security project**
 - **Methane gas-detector IoT device** (Arduino + MQ-4 sensor)
 - **Credit Card Fraud Detection** (AI4ALL program)
