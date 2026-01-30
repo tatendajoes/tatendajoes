@@ -25,20 +25,6 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=C%2B%2B) ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
 
----
-
-## 🚀 Projects
-
-### 🔧 Ongoing Projects
-- **Real-Time AI-based fault-detection for industrial equipment** (FPGA + AI)
-- **Class-attendance & attention-monitoring system** (Computer Vision)
-
-### ✅ Completed Projects
-- **Autonomous wheelchair for disabled travelers at airports**
-- **MPI-Fortran simulations of relativistic jets for astrophysics research**
-- **DARPA intrusion-detection dataset cyber-security project**
-- **Methane gas-detector IoT device** (Arduino + MQ-4 sensor)
-- **Credit Card Fraud Detection** (AI4ALL program)
 
 ---
 
